@@ -1,9 +1,15 @@
 # hello-world
 
-My first  repository on  GitHub
+<<<<<<readme-edits
+
+Hello world!
+
+Dev here,
+
+My first repository on GitHub
 
 I like to do programming
 
-I love :coffee:, :pizza:, and :songs:
+I love :coffee: :pizza:, and :songs:
 
-
+>>>>>>README-Edits
